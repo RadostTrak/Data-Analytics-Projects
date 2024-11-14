@@ -1,4 +1,4 @@
-## Data-Analytics-Projects
+## Data Analytics Projects
 
 ### This is a short description of each practical assignment I worked on for the course Data Analytics (INFOB2DA). 
 These assignments were carried out in a group of three people to gain practical experience in data analysis to supplement the theoretical knowledge acquired prior. The main topics of the assignments are preprocessing, clustering, classification, and visalisation.
